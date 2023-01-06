@@ -1,0 +1,32 @@
+body{
+     background-color: #f7f3da;
+     text-align: center;
+}
+
+h1{ 
+    color: #0db17a;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    border-bottom: 6px solid #c7dde0;
+    padding-bottom: 25px;
+}
+
+h2{
+    color: #b63a14;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+img{
+    max-width: 600px;
+    height: auto;
+}
+
+li{
+    list-style: none;
+    font-size: 24px;
+}
+
+
+
